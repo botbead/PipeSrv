@@ -70,7 +70,6 @@ struct thread_timer {
 	long lifetime;
 	TIME_UNIT time_unit;
 	SPIN_LOCK quit_lock;
-	// 后期改进，形成一条TIMER_FUNC的链表。
 	TIMER_FUNC func;
 	void * param_in;
 	void * value_out;
