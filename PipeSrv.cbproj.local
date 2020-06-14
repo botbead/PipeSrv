@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018/08/03 20:37:36.000.900,=D:\projects_cpp1\Unit2.cpp</Transaction>
+    <Transaction>2018/08/03 20:37:36.000.879,=D:\projects_cpp1\Project2PCH1.h</Transaction>
+    <Transaction>2018/08/03 20:37:45.000.190,=D:\projects_cpp1\Project2PCH1.h</Transaction>
+    <Transaction>2018/08/03 20:37:45.000.208,=D:\projects_cpp1\Unit2.cpp</Transaction>
+    <Transaction>2018/08/03 20:38:11.000.215,D:\cppprojects\PipeSrv\main_gui.cpp=D:\projects_cpp1\Unit2.cpp</Transaction>
+    <Transaction>2018/08/03 20:38:11.000.215,D:\cppprojects\PipeSrv\main_gui.h=D:\projects_cpp1\Unit2.h</Transaction>
+    <Transaction>2018/08/03 20:38:11.000.215,D:\cppprojects\PipeSrv\main_gui.dfm=D:\projects_cpp1\Unit2.dfm</Transaction>
+    <Transaction>2018/08/03 20:38:30.000.309,D:\cppprojects\PipeSrv\PipeSrvPCH1.h=D:\projects_cpp1\Project2PCH1.h</Transaction>
+    <Transaction>2018/08/03 20:38:35.000.641,D:\cppprojects\PipeSrv\PipeSrv.cbproj=D:\projects_cpp1\Project2.cbproj</Transaction>
+    <Transaction>2018/08/03 20:39:56.000.143,=D:\cppprojects\PipeSrv\SimpleThreads.h</Transaction>
+    <Transaction>2018/08/03 20:39:56.000.170,=D:\cppprojects\PipeSrv\ws2_32.lib</Transaction>
+    <Transaction>2018/08/03 20:39:56.000.155,=D:\cppprojects\PipeSrv\SimpleThreads2.lib</Transaction>
+    <Transaction>2018/08/03 20:39:56.000.135,=D:\cppprojects\PipeSrv\mswsock.lib</Transaction>
+    <Transaction>2018/08/03 22:46:39.000.847,=D:\cppprojects\PipeSrv\ws2_32.a</Transaction>
+    <Transaction>2018/08/03 22:46:39.000.827,=D:\cppprojects\PipeSrv\mswsock.a</Transaction>
+    <Transaction>2018/08/03 22:47:23.000.569,=D:\cppprojects\PipeSrv\SimpleThreads2.a</Transaction>
+    <Transaction>2018/08/09 16:30:33.000.318,=E:\PipeSrv\package.h</Transaction>
+    <Transaction>2018/08/09 16:30:33.000.304,=E:\PipeSrv\package.cpp</Transaction>
+    <Transaction>2018/08/15 09:59:39.000.199,=D:\PipeSrv\cJSON.c</Transaction>
+    <Transaction>2018/08/15 09:59:39.000.253,=D:\PipeSrv\CJsonObject.cpp</Transaction>
+    <Transaction>2018/08/15 09:59:39.000.224,=D:\PipeSrv\cJSON.h</Transaction>
+    <Transaction>2018/08/15 09:59:39.000.274,=D:\PipeSrv\CJsonObject.hpp</Transaction>
+    <Transaction>2018/08/15 10:09:01.000.904,=D:\PipeSrv\File1.h</Transaction>
+    <Transaction>2018/08/15 10:09:34.000.484,D:\PipeSrv\unistd.h=D:\PipeSrv\File1.h</Transaction>
+    <Transaction>2018/08/15 10:16:05.000.207,D:\PipeSrv\unistd.h=</Transaction>
+    <Transaction>2018/08/16 22:38:59.000.665,D:\PipeSrv\mswsock.lib=</Transaction>
+    <Transaction>2018/08/16 22:39:07.000.335,D:\PipeSrv\SimpleThreads2.lib=</Transaction>
+    <Transaction>2018/08/16 22:39:11.000.679,D:\PipeSrv\ws2_32.lib=</Transaction>
+  </Transactions>
+</BorlandProject>
